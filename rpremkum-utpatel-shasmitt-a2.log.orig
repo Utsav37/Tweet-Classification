@@ -1,0 +1,19 @@
+CITY                   TOP 5 WORDS 
+Los_Angeles,_CA         ['Los', 'Angeles,', '#LosAngeles,', 'CA', '#CareerArc']
+Toronto,_Ontario         ['ON', 'Trucks)', 'Toronto', 'Toronto,', 'Ontario']
+San_Diego,_CA         ['San', 'Diego,', 'CA', 'CA)', '#SanDiego,']
+Manhattan,_NY         ['NY', 'New', 'York,', 'NY)', 'York']
+Houston,_TX         ['Houston', '#Houston,', 'TX', 'Houston,', '#CareerArc']
+Atlanta,_GA         ['#Atlanta,', 'GA', '#CareerArc', 'Atlanta,', 'Georgia']
+Washington,_DC         ['DC)', 'DC', '#Washington,', 'Washington,', '#CareerArc']
+Orlando,_FL         ['#orlpol', '#opd', 'FL', 'S', '#Orlando,']
+Philadelphia,_PA         ['Philadelphia,', 'PA', 'Philadelphia', '#Philadelphia,', 'PA)']
+Boston,_MA         ['#Boston,', '#CareerArc', 'MA', 'Boston,', 'Boston']
+San_Francisco,_CA         ['CA', '#SanFrancisco,', 'San', 'Francisco,', '#CareerArc']
+Chicago,_IL         ['Chicago,', 'IL)', '#Chicago,', 'IL', 'Chicago']
+length of y original is :  32000
+correctly classified are :  31439
+length of y original is :  500
+correctly classified are :  500
+Training Accuracy is :  0.98246875
+Testing_accuracy is :  1.0
